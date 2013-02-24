@@ -5,9 +5,9 @@
   "main": "app.js",
   "dependencies": {
     "connect-assets": "",
-    "express": "~3.1.0",
-    "stylus": "~0.32.0",
-    "jade": "~0.28.1"
+    "express": "",
+    "stylus": "",
+    "jade": ""
   },
   "devDependencies": {},
   "scripts": {
